@@ -64,3 +64,4 @@ RTL realization
 ![image](https://github.com/jash0738/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/139841600/8e4ccd7d-c1a5-4ce6-9d62-baf7a3b84373)
 
 ### Result:
+Thus the given logic function is implemented using and or and not gate and their operations are verified using Verilog programming.
