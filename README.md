@@ -45,10 +45,19 @@ Logic symbol & Truthtable
 RTL realization
 
 ### Output:
-### RTL
-### TIMING DIAGRAM
+### RTL (HALF ADDER )
+![image](https://github.com/jash0738/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/139841600/25c8b5e2-c560-403f-977c-47200cec6d9d)
+### TIMING DIAGRAM (HALF ADDER )
+![image](https://github.com/jash0738/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/139841600/952c6177-9fb4-4893-b4b2-2c920ade1376)
+### TRUTH TABLE (HALF ADDER )
+![image](https://github.com/jash0738/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/139841600/b29b1018-f608-404d-a7a1-340d6cad6d32)
+### RTL (FULL ADDER )
+![image](https://github.com/jash0738/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/139841600/8750105a-67cf-4c0d-9f95-4dc9236a9335)
 
+### TIMING DIAGRAM (FULL ADDER )
+![image](https://github.com/jash0738/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/139841600/a355d9ca-85bf-48eb-b7f9-1021b9cf234b)
 
-### TRUTH TABLE 
+### TRUTH TABLE  (FULL ADDER )
+![image](https://github.com/jash0738/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/139841600/8e4ccd7d-c1a5-4ce6-9d62-baf7a3b84373)
 
 ### Result:
