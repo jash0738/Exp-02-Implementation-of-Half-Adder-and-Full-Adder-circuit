@@ -66,6 +66,13 @@ output sum,carry;
 xor(sum,a,b,c);
 assign carry=a&b | b&c | a&c;
 endmodule
+full adder:
+module fulladder(a,b,c,sum,carry);
+input a,b,c;
+output sum,carry;
+xor(sum,a,b,c);
+assign carry=a&b | b&c | a&c;
+endmodule
 */
 Logic symbol & Truthtable
 RTL realization
